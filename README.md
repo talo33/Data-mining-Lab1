@@ -1,1 +1,1 @@
-# Data-mining---Lab1
+# Data-mining-Lab1
